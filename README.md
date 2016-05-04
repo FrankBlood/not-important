@@ -1,3 +1,3 @@
 # other-important
 
-This is not important, which just a small test.
+This is not important, which is just a small test.
